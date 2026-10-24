@@ -1,9 +1,17 @@
 {
   "games": [
     {
-      "title": "Grand Theft Auto: San Andreas",
-      "description": "Три города, три характера и целый штат на 90-е. Rockstar North задала стандарт открытого мира, который не переплюнули до сих пор.",
-      "cover_full": "https://raw.githubusercontent.com/donm1n3/DonLauncher/main/covers/grandtheftautosanandreas_ps2.jpg",
+      "title": "LEGO Batman: The Videogame",
+      "description": "Пластиковый Готэм, супергерои и искрометный юмор. Traveller's Tales превратила мрачный мир Бэтмена в увлекательное семейное приключение с разрушаемым окружением.",
+      "cover_full": "https://raw.githubusercontent.com/donm1n3/DonLauncher/main/covers/legobatmanthevideogame_ps2.jpg",
+      "front_cover": "",
+      "spine_cover": "",
+      "back_cover": ""
+    },
+    {
+      "title": "God of War",
+      "description": "Ярость, месть и греческая мифология. Санта-Моника подарила миру Кратоса — спартанца, готового бросить вызов самим богам Олимпа в кровавом и зрелищном экшене.",
+      "cover_full": "https://raw.githubusercontent.com/donm1n3/DonLauncher/main/covers/godofwar_ps2.jpg",
       "front_cover": "",
       "spine_cover": "",
       "back_cover": ""
@@ -11,7 +19,31 @@
     {
       "title": "Silent Hill 2",
       "description": "Психологический хоррор Team Silent о вине, горе и наказании. Туман, письмо от мёртвой жены и самый тихий ад в истории игр.",
-      "cover_full": "",
+      "cover_full": "https://raw.githubusercontent.com/donm1n3/DonLauncher/main/covers/silenthill2_ps2.jpg",
+      "front_cover": "",
+      "spine_cover": "",
+      "back_cover": ""
+    },
+    {
+      "title": "Need for Speed: Most Wanted (Black Edition)",
+      "description": "Легендарные ночные гонки, погони с копами и Черный список. Rockport встречает вас дождем, неоном и ревом двигателя V8. Издание с бонусными машинами и испытаниями.",
+      "cover_full": "https://raw.githubusercontent.com/donm1n3/DonLauncher/main/covers/needforspeedmostwantedblackedition_ps2.jpg",
+      "front_cover": "",
+      "spine_cover": "",
+      "back_cover": ""
+    },
+    {
+      "title": "Grand Theft Auto: Vice City",
+      "description": "Неоновые 80-е, кокаин, синтвейв и гавайские рубашки. Томми Версетти строит свою криминальную империю в самом солнечном и опасном городе Америки.",
+      "cover_full": "https://raw.githubusercontent.com/donm1n3/DonLauncher/main/covers/grandtheftautovicecity_ps2.jpg",
+      "front_cover": "",
+      "spine_cover": "",
+      "back_cover": ""
+    },
+    {
+      "title": "Grand Theft Auto: San Andreas",
+      "description": "Три города, три характера и целый штат на 90-е. Rockstar North задала стандарт открытого мира, который не переплюнули до сих пор.",
+      "cover_full": "https://raw.githubusercontent.com/donm1n3/DonLauncher/main/covers/grandtheftautosanandreas_ps2.jpg",
       "front_cover": "",
       "spine_cover": "",
       "back_cover": ""
