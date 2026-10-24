@@ -12,9 +12,9 @@
       "title": "Silent Hill 2",
       "description": "Психологический хоррор Team Silent о вине, горе и наказании. Туман, письмо от мёртвой жены и самый тихий ад в истории игр.",
       "cover_full": "",
-      "front_cover": "https://raw.githubusercontent.com/donm1n3/DonLauncher/main/covers/sh2_front.jpg",
-      "spine_cover": "https://raw.githubusercontent.com/donm1n3/DonLauncher/main/covers/sh2_spine.jpg",
-      "back_cover": "https://raw.githubusercontent.com/donm1n3/DonLauncher/main/covers/sh2_back.jpg"
+      "front_cover": "",
+      "spine_cover": "",
+      "back_cover": ""
     }
   ]
 }
